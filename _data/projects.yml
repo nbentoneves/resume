@@ -1,0 +1,23 @@
+- layout: top-middle
+  name: ThunderWOD
+  link: github.com/thunder-wod
+  github: thunder-wod
+  quote: >
+    An application that will allow you to manage workouts, exercises, athletes or generate workouts!
+  description: | # this will include new lines to allow paragraphs
+    This application is not deployed, yet. I started this project because I wanted to learn <mark>reactjs</mark> and <mark>kotlin</mark>.
+    I love fitness and because of the COVID-19 I was forced to train at home. I understand some people don't have enough time
+    to try to find workouts and I felt I could help with an application that helps people to get one and be more healthy <i class="fas fa-running"></i>.
+
+    If you want to contribute, please fell free to send me an email <i class="fas fa-envelope-open-text"></i>.
+
+- layout: top-middle
+  name: Sesame Java
+  link: github.com/sesame-java
+  github: sesame-java
+  quote: >
+    Test method classes inside a jar without need to create code to execute it
+  description: | # this will include new lines to allow paragraphs
+    With this tool <i class="fas fa-tools"></i> you can run a method from a class inside a jar file without need to create code. It's quite useful when you need to
+    do some manual validation for a native java library without configurations. Unfortunately this tool only allows you to execute methods
+    with primitive data. I started this project because I wanted to try <mark>kotlin</mark>.

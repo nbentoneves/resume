@@ -1,0 +1,54 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Nuno Bento
+title: Java Backend Developer
+email: nbento.neves@gmail.com
+#website: www.github.com/sproogen/resume-theme
+
+# Social links
+twitter_username: nuno_bento_90
+github_username:  nbentoneves
+linkedin_username: nunofilipebento
+
+# About Section
+# about_title: About Me
+about_profile_image: images/foto.png
+about_content: | # this will include new lines to allow paragraphs
+  My passion for technology has grown quickly since I was young, even before high school. As such, the curiosity about ***"how computers work" pushed me*** to this new technology world.
+  By being autodidactic and dedicated, I ended up experimenting different types of programming languages such as PHP, javascript, Java, etc...but I quickly realized my fascination about Java, which defined my professional path.
+
+  But technology isn't my only passion. I love **travelling** and **Crossfit**.
+
+  <i class="fas fa-plane"></i> <mark>Why travelling?</mark> I love to travel because it allows you to meet new cultures, taste new foods and learn to respect the differences, which I believe opens new horizons in my personal growth.
+
+  <i class="fas fa-dumbbell"></i> <mark>Why Crossfit?</mark> It is a very challenging sport that allows me to prove that I can exceed myself, conquer my fears and get new challenges.
+
+# Experience Section
+experience_title: Last Experiences
+
+# Projects Section
+projects_title: Personal Projects
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+#more_title: My Goals of 2020
+#more_content: | # this will include new lines to allow paragraphs
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-font-awesome-sass
