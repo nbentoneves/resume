@@ -42,9 +42,6 @@ projects_title: Personal Projects
 # Footer
 footer_show_references: false
 
-font-awesome:
-  assets: true
-
 # Build settings
 remote_theme: sproogen/modern-resume-theme
 
@@ -54,4 +51,3 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-font-awesome-sass
