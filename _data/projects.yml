@@ -1,6 +1,16 @@
 - layout: top-middle
+  name: Cook.me
+  link: cook-me-web.herokuapp.com/
+  github: cookme
+  quote: >
+    Why did not cook a different recipe today?
+  description: | # this will include new lines to allow paragraphs
+    I started this project because I wanted to learn <mark>reactjs</mark> and <mark>kotlin</mark>.
+    With cook.me you can add ingredients in a search box and the app will give you a random recipe <i class="fas fa-utensils"></i> based on it.
+
+- layout: top-middle
   name: ThunderWOD
-  link: github.com/thunder-wod
+  link: thunderwod-web.herokuapp.com
   github: thunder-wod
   quote: >
     An application that will allow you to manage workouts, exercises, athletes or generate workouts!
@@ -9,7 +19,7 @@
     I love fitness and because of the COVID-19 I was forced to train at home. I understand some people don't have enough time
     to try to find workouts and I felt I could help with an application that helps people to get one and be more healthy <i class="fas fa-running"></i>.
 
-    If you want to contribute, please fell free to send me an email <i class="fas fa-envelope-open-text"></i>.
+    If you want to contribute, please feel free to send me an email <i class="fas fa-envelope-open-text"></i>.
 
 - layout: top-middle
   name: Sesame Java
