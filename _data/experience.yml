@@ -7,7 +7,7 @@
     Helping to improve and create one of the largest betting companies in the world!
   description: | # this will include new lines to allow paragraphs
     Working daily to have the system healthy and a backend without any major issues is a ***big challenge*** when you work ***in a company that receives millions of transactions per day***.
-    Besides of developing new features or fixing some bugs, part of my routine is to verify reports, check the performance graphics, write documentations and release our services to production.
+    Besides of developing new features or fixing some bugs, part of my routine is to verify reports, check the performance graphics, write documentation and release our services to production.
 
     <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM
 
@@ -19,7 +19,7 @@
   job_title: Software Developer (Contrator for Blip.pt)
   dates: Jul 2016 - Dec 2017
   quote: >
-    Worked at Blip.pt as contractor.
+    Worked at Blip.pt as a contractor.
   description: | # this will include new lines to allow paragraphs
     This experience was my first part of Blip experience. I did the same tasks as I described above...the only difference is that I was part of a project to ***migrate a monolithic architecture
     software to a microservice architecture***. It was a very good experience that involved migrating code and restructuring a huge pipeline with a lot of dependencies in small pieces.
@@ -36,7 +36,7 @@
   quote: >
     Be part of a project to allow us to have a better mobility experience around cities
   description: | # this will include new lines to allow paragraphs
-    It was a very interesting project! The main focus of the project was to build a system that allowed to collect metrics from the eletric cars and with those metrics obtain some conclusions about CO2 release
+    It was a very interesting project! The main focus of the project was to build a system that allowed to collect metrics from the electric cars and with those metrics obtain some conclusions about CO2 release
     and the impact for the world. I worked as a backend developer in this project, it was the first time I had an experience with microservices and the ***opportunity to introduce the spring
     framework into the backend department*** (the team was really small and we had space to try new technologies or tools around the company).
 
