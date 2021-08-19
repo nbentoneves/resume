@@ -1,0 +1,44 @@
+# Project template
+- title: Flame Nutrition
+  image: images/projects/flamenutrition.png
+  website: https://flamenutrition.co.uk/
+  description:  | # this will include new lines to allow paragraphs
+    Wordpress blog for a nutrition coach service. I helped setting up the worpress configs and the deployment using AWS Lightsail.
+    Also I did some CSS adjustments, Flame Nutrition uses the blog to receive messages asking about their services and provides some nice articles.
+
+- title: ThunderWod
+  image: images/projects/thunderwod.png
+  github: organizations/thunder-wod
+  website: https://thunderwod-web.herokuapp.com/
+  description:  | # this will include new lines to allow paragraphs
+    I started this project because I wanted to learn <mark>reactjs</mark> and <mark>kotlin</mark>.
+    I love fitness and because of the COVID-19 I was forced to train at home. Using this is a funny way to get a workout <i class="fas fa-running"></i>.
+
+- title: Cook.me
+  image: images/projects/cookme.png
+  website: https://cook-me-web.herokuapp.com/
+  github: nbentoneves/cookme
+  description: |
+    I started this project because I wanted to learn <mark>reactjs</mark> and <mark>kotlin</mark>.
+    With cook.me you can add ingredients in a search box and the app will give you a random recipe <i class="fas fa-utensils"></i> based on it.
+
+- title: Flame Coach
+  image: images/projects/flamecoach.png
+  website: https://app.flamenutrition.co.uk/
+  description: |
+    This application allows clients and nutrition coaches to work closely. Coaches can help their clients to be on track and give them an on going support.
+    Developed using <mark>nextjs</mark> for the front-end with a <mark>kotlin</mark> webservice.
+
+- title: Burger Builder
+  image: images/projects/burgerbuild.png
+  website: https://nbentoneves.github.io/building-burger/
+  github: nbentoneves/building-burger
+  description: |
+    My first steps in the modern front-end world. It was a great way to learn <mark>reactjs</mark> and also <mark>ES6</mark>.
+    I did this application following a udemy course called "React - The Complete Guide (incl Hooks, React Router, Redux)".
+
+- title: Sesame Java
+  github: nbentoneves/sesame-java
+  description: | # this will include new lines to allow paragraphs
+    <i>Discontinued:</i> With this tool <i class="fas fa-tools"></i> you can run a method from a class inside a jar file without needing to create code. It's quite useful when you need to
+    do some manual validation for a native java library without configurations. I started this project because I wanted to try <mark>kotlin</mark>.

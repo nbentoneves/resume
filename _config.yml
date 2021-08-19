@@ -2,11 +2,16 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
+# Content configuration version
+version: 1
+
 # Personal info
 name: Nuno Bento
 title: Java Backend Developer
 email: nbento.neves@gmail.com
 #website: www.github.com/sproogen/resume-theme
+
+google_analytics: "G-ZZPS24VL92"
 
 # Social links
 twitter_username: nuno_bento_90
@@ -42,8 +47,18 @@ projects_title: Personal Projects
 # Footer
 footer_show_references: false
 
+# Slider Settings
+slider_settings:
+  github:
+    url: http://127.0.0.1:4000/
+  enabled: true
+  loop: true
+  auto: true
+  speed: 800
+  pause: 3000
+
 # Build settings
-remote_theme: sproogen/modern-resume-theme
+remote_theme: nbentoneves/modern-resume-theme
 
 sass:
   sass_dir: _sass

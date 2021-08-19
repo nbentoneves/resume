@@ -1,15 +1,32 @@
+- layout: right
+  company: Gentrack
+  link: https://www.gentrack.com/
+  job_title: Software Engineer - Intermediate
+  dates: Oct 2020 - Present
+  quote: >
+    Working for the utility market in the United Kingdom
+  description: | # this will include new lines to allow paragraphs
+    I have started this new **challenge outside of my country** and in a new field, the utilities market.
+    I'm part of a team responsible for developing new features for the application core and maintaining it stable. Also, it's our responsibility to do releases and support customer tickets.
+    This has been a good experience because of the direct contact with the customer and the opportunity to implement some improvements around the team,
+    such as testing practices, delivery process and scrum processes.
+
+    <i class="fas fa-toolbox"></i> Tools: Intellij, Jenkins, VisualVM, Visual Studio, Postman, Git
+
+    <i class="fas fa-code"></i> Code: Java 8, Spring, C#, SQL Server
+
 - layout: left
   company: Blip.pt part of Flutter (Paddy Power Betfair)
   link: blip.pt
   job_title: Associate Backend Developer
-  dates: Jan 2018 - Present
+  dates: Jan 2018 - Oct 2020
   quote: >
-    Helping to improve and create one of the largest betting companies in the world!
+    Helped to improve and create one of the largest betting companies in the world!
   description: | # this will include new lines to allow paragraphs
     Working daily to have the system healthy and a backend without any major issues is a ***big challenge*** when you work ***in a company that receives millions of transactions per day***.
     Besides of developing new features or fixing some bugs, part of my routine is to verify reports, check the performance graphics, write documentation and release our services to production.
 
-    <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM
+    <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM, Postman, Git
 
     <i class="fas fa-code"></i> Code: Java 8, Scala (basic), Apache Kafka, Spring
 
@@ -24,7 +41,7 @@
     This experience was my first part of Blip experience. I did the same tasks as I described above...the only difference is that I was part of a project to ***migrate a monolithic architecture
     software to a microservice architecture***. It was a very good experience that involved migrating code and restructuring a huge pipeline with a lot of dependencies in small pieces.
 
-    <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM
+    <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM, Postman, Git
 
     <i class="fas fa-code"></i> Code: Java 8, Scala (basic), Apache Kafka, Spring
 
@@ -40,7 +57,7 @@
     and the impact for the world. I worked as a backend developer in this project, it was the first time I had an experience with microservices and the ***opportunity to introduce the spring
     framework into the backend department*** (the team was really small and we had space to try new technologies or tools around the company).
 
-    <i class="fas fa-toolbox"></i> Tools: Jenkins, Tomcat, VisualVM
+    <i class="fas fa-toolbox"></i> Tools: Jenkins, Tomcat, VisualVM, SVN
 
     <i class="fas fa-code"></i> Code: Java 7, Oracle Database, Spring Framework
 
