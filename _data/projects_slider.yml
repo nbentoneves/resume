@@ -3,7 +3,7 @@
   image: images/projects/flamenutrition.png
   website: https://flamenutrition.co.uk/
   description:  | # this will include new lines to allow paragraphs
-    Wordpress blog for a nutrition coach service. I helped setting up the worpress configs and the deployment using AWS Lightsail.
+    <i>Discontinued:</i> Wordpress blog for a nutrition coach service. I helped setting up the worpress configs and the deployment using AWS Lightsail.
     Also I did some CSS adjustments, Flame Nutrition uses the blog to receive messages asking about their services and provides some nice articles.
 
 - title: ThunderWod
@@ -25,8 +25,9 @@
 - title: Flame Coach
   image: images/projects/flamecoach.png
   website: https://app.flamenutrition.co.uk/
+  github: FlameNutrition
   description: |
-    This application allows clients and nutrition coaches to work closely. Coaches can help their clients to be on track and give them an on going support.
+    Opensource: This application allows clients and nutrition coaches to work closely. Coaches can help their clients to be on track and give them an on going support.
     Developed using <mark>nextjs</mark> for the front-end with a <mark>kotlin</mark> webservice.
 
 - title: Burger Builder

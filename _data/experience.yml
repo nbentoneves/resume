@@ -1,8 +1,27 @@
+- layout: left
+  company: Livi
+  link: https://www.livi.co.uk/
+  job_title: Software Engineer
+  dates: Oct 2021 - Present
+  quote: >
+    Building a new SaaS product
+  description: | # this will include new lines to allow paragraphs
+    Working in a team to build a new SaaS product to expand the company across the world has a lot of challenges. I started this job as my first experience as a fullstack developer. 
+    I have been enjoying the hard work and to be part of the creation of a completely new product in the market. 
+    I’m having the opportunity to work with reactj, reactive programming, such as, rx java and vertx. Also, 
+    it’s our responsibility to deploy and set up all the AWS infrastructure to put the services running in our test and production environment. 
+    In a very fast environment, I have had the opportunity to help with new ideas and to implement new ways of working in the team. 
+    It’s very exciting to work for a health care company that helps people around the world.
+
+    <i class="fas fa-toolbox"></i> Tools: Intellij, VisualVM, Visual Studio, Postman, Git, AWS, Cypress, Miro, Figma, Jira
+
+    <i class="fas fa-code"></i> Code: Java 11, Spring, MySql, ReactJ, RxJava, Vertx, Typescript 
+
 - layout: right
   company: Gentrack
   link: https://www.gentrack.com/
   job_title: Software Engineer - Intermediate
-  dates: Oct 2020 - Present
+  dates: Oct 2020 - Oct 2021
   quote: >
     Working for the utility market in the United Kingdom
   description: | # this will include new lines to allow paragraphs
