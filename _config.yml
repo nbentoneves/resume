@@ -17,6 +17,11 @@ twitter_username: nuno_bento_90
 github_username:  nbentoneves
 linkedin_username: nunofilipebento
 
+additional_links:
+- title: Blog
+  icon: fa-brands fa-blogger
+  url: techdevlife.wordpress.com
+
 # About Section
 # about_title: About Me
 about_profile_image: images/foto.png
