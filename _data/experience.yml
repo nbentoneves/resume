@@ -1,8 +1,25 @@
+- layout: right
+  company: Mindera
+  link: https://mindera.com/united-kingdom
+  job_title: Full Stack Engineer
+  dates: Jul 2022 - Present
+  quote: >
+    Building high quality solutions
+  description: | # this will include new lines to allow paragraphs
+    I'm currently working at Mindera, where I have the opportunity to switch to different projects, allowing me to learn and grow in various industries. 
+    Right now, I'm involved in the gambling business, working for Flutter, one of the largest groups globally. 
+    As a full-stack engineer, my responsibilities include developing end-to-end user experiences at <a href="https://www.fanduel.com/free/hub" target="_blank">free to play</a>. This involves configuring infrastructure, writing backend and frontend code, and conducting performance tests. 
+    I have the opportunity to expand my knowledge and make positive contributions by solving problems and implementing new features when needed.
+
+    <i class="fas fa-toolbox"></i> Tools: Intellij, VisualVM, Visual Studio, Postman, Git, AWS, Cypress, Miro, Figma, Jira, Buildkite
+
+    <i class="fas fa-code"></i> Code: Java 17, Spring Boot, MySql, ReactJ, Typescript, Golang, Redis, Kotlin, MySql, Kubernetes
+
 - layout: left
   company: Livi
   link: https://www.livi.co.uk/
   job_title: Software Engineer
-  dates: Oct 2021 - Present
+  dates: Oct 2021 - Jun 2022
   quote: >
     Building a new SaaS product
   description: | # this will include new lines to allow paragraphs
