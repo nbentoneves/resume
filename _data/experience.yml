@@ -6,10 +6,10 @@
   quote: >
     Building high quality solutions
   description: | # this will include new lines to allow paragraphs
-    I'm currently working at Mindera, where I have the opportunity to switch to different projects, allowing me to learn and grow in various industries. 
-    Right now, I'm involved in the gambling business, working for Flutter, one of the largest groups globally. 
-    As a full-stack engineer, my responsibilities include developing end-to-end user experiences at <a href="https://www.fanduel.com/free/hub" target="_blank">free to play</a>. This involves configuring infrastructure, writing backend and frontend code, and conducting performance tests. 
-    I have the opportunity to expand my knowledge and make positive contributions by solving problems and implementing new features when needed.
+    I am currently working at Mindera, where I have the opportunity to switch between different projects, enabling me to learn and grow in various industries.
+    At present, I am involved in the gambling sector, working for Flutter, one of the largest betting companies in the world. 
+    As a full-stack engineer, my responsibilities include developing end-to-end user experiences for <a href="https://www.fanduel.com/free/hub" target="_blank">free to play</a> platforms. This involves configuring infrastructure, writing both backend and frontend code, and conducting performance tests. 
+    I have the chance to expand my knowledge and make positive contributions by solving problems and implementing new features as needed.
 
     <i class="fas fa-toolbox"></i> Tools: Intellij, VisualVM, Visual Studio, Postman, Git, AWS, Cypress, Miro, Figma, Jira, Buildkite
 
@@ -32,7 +32,7 @@
 
     <i class="fas fa-toolbox"></i> Tools: Intellij, VisualVM, Visual Studio, Postman, Git, AWS, Cypress, Miro, Figma, Jira
 
-    <i class="fas fa-code"></i> Code: Java 11, Spring, MySql, ReactJ, RxJava, Vertx, Typescript 
+    <i class="fas fa-code"></i> Code: Java 11, Spring, MySql, ReactJ, RxJava, Vertx, Typescript
 
 - layout: right
   company: Gentrack
@@ -96,5 +96,3 @@
     <i class="fas fa-toolbox"></i> Tools: Jenkins, Tomcat, VisualVM, SVN
 
     <i class="fas fa-code"></i> Code: Java 7, Oracle Database, Spring Framework
-
-
