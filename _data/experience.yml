@@ -6,14 +6,13 @@
   quote: >
     Building high quality solutions
   description: | # this will include new lines to allow paragraphs
-    I am currently working at Mindera, where I have the opportunity to switch between different projects, enabling me to learn and grow in various industries.
-    At present, I am involved in the gambling sector, working for Flutter, one of the largest betting companies in the world. 
-    As a full-stack engineer, my responsibilities include developing end-to-end user experiences for <a href="https://www.fanduel.com/free/hub" target="_blank">free to play</a> platforms. This involves configuring infrastructure, writing both backend and frontend code, and conducting performance tests. 
-    I have the chance to expand my knowledge and make positive contributions by solving problems and implementing new features as needed.
+    Working for Flutter, one of the largest gambling companies in the world. As a full-stack engineer, my responsibilities include developing end-to-end user experiences at 
+    “free to play”. This involves infrastructure, writing backend, frontend code, and conducting performance tests. 
+    I have had the opportunity to lead technical discussions and implement new technologies, such as Redis, within the vertical. This experience has enabled me to assist less experienced developers by helping them configure advanced properties and guiding them in day-to-day implementations within more complex architectures.One of the significant challenges I faced was replacing a blocking location system with a new cloud distribution method for the "free-to-play" platform. This initiative was researched and led by me.
 
-    <i class="fas fa-toolbox"></i> Tools: Intellij, VisualVM, Visual Studio, Postman, Git, AWS, Cypress, Miro, Figma, Jira, Buildkite
+    <i class="fas fa-toolbox"></i> Tools: Intellij, VisualVM, Visual Studio, Postman, Git, AWS, Cypress, Miro, Figma, Jira, Buildkite, Kubernetes
 
-    <i class="fas fa-code"></i> Code: Java 17, Spring Boot, MySql, ReactJ, Typescript, Golang, Redis, Kotlin, MySql, Kubernetes
+    <i class="fas fa-code"></i> Code: Java 17, Spring Boot, MySql, ReactJ, Typescript, Golang, Redis, Kotlin, MySql, 
 
 - layout: left
   company: Livi
@@ -23,12 +22,9 @@
   quote: >
     Building a new SaaS product
   description: | # this will include new lines to allow paragraphs
-    Working in a team to build a new SaaS product to expand the company across the world has a lot of challenges. I started this job as my first experience as a fullstack developer. 
-    I have been enjoying the hard work and to be part of the creation of a completely new product in the market. 
-    I’m having the opportunity to work with reactj, reactive programming, such as, rx java and vertx. Also, 
-    it’s our responsibility to deploy and set up all the AWS infrastructure to put the services running in our test and production environment. 
-    In a very fast environment, I have had the opportunity to help with new ideas and to implement new ways of working in the team. 
-    It’s very exciting to work for a health care company that helps people around the world.
+    I worked in a team to build a new SaaS product with the goal of expanding the company to Italy, which presented numerous challenges. This was my first experience as a full-stack developer, where I utilized technologies such as ReactJS and java reactive programming like RxJava and Vert.x.
+    In a startup environment with many tasks happening simultaneously, I had the opportunity to research, lead, and contribute to various new implementations and methodologies. One of the key responsibilities was to define a strategy for the team to deliver high-quality results within tight time frames. Together, we successfully implemented a CI/CD environment.
+    This role provided a great opportunity for my growth—not only as a developer but also in terms of improving my communication and collaboration skills. In such a fast-paced place, I engaged in a lot of pair programming and participated in valuable technical discussions with my colleagues.
 
     <i class="fas fa-toolbox"></i> Tools: Intellij, VisualVM, Visual Studio, Postman, Git, AWS, Cypress, Miro, Figma, Jira
 
@@ -42,10 +38,9 @@
   quote: >
     Working for the utility market in the United Kingdom
   description: | # this will include new lines to allow paragraphs
-    I have started this new **challenge outside of my country** and in a new field, the utilities market.
-    I'm part of a team responsible for developing new features for the application core and maintaining it stable. Also, it's our responsibility to do releases and support customer tickets.
-    This has been a good experience because of the direct contact with the customer and the opportunity to implement some improvements around the team,
-    such as testing practices, delivery process and scrum processes.
+    I have taken on a new challenge in a different country and field, specifically in the electricity and gas utilities sector. I was part of a team responsible for developing new features for the application core and ensuring its stability.
+    In addition to implementing new features, my team's responsibilities included addressing issues reported by clients. Given the complexity of the industry, to understanding of these issues and to establish effective testing methods for the solutions, I decided to change my testing approach and adopt a more test-driven development (TDD) methodology.
+    This strategy has helped me gain more confidence in delivering bug fixes, while also accelerating my ability to learn about the industry and produce higher-quality work.
 
     <i class="fas fa-toolbox"></i> Tools: Intellij, Jenkins, VisualVM, Visual Studio, Postman, Git
 
@@ -59,8 +54,10 @@
   quote: >
     Helped to improve and create one of the largest betting companies in the world!
   description: | # this will include new lines to allow paragraphs
-    Working daily to have the system healthy and a backend without any major issues is a ***big challenge*** when you work ***in a company that receives millions of transactions per day***.
-    Besides of developing new features or fixing some bugs, part of my routine is to verify reports, check the performance graphics, write documentation and release our services to production.
+    I played a key role in creating and developing one of the largest betting companies in the world!
+    Working daily to ensure a healthy system and a backend that operates without major issues is a significant challenge, especially in a company that processes millions of transactions each day. In addition to developing new features and fixing bugs, my routine included verifying reports, analyzing performance graphs, writing documentation, and deploying our services to production.
+    During my time at Blip, I had the opportunity to work with a wide range of technologies and architectures. I was part of a highly experienced team and had the privilege of working directly with principal developers and software architects, which provided me with invaluable learning experiences as a mentee.
+    One of the most significant opportunities I encountered was migrating a critical service from a monolithic architecture to microservices. Plus, I was involved in implementing Kafka in a distributed system, creating testing tools using behavior driven development (BDD), upgrading Java versions, developing internal tools to support service analyses and conducting performance tests using tools like Gatling.
 
     <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM, Postman, Git
 
@@ -74,8 +71,7 @@
   quote: >
     Worked at Blip.pt as a contractor.
   description: | # this will include new lines to allow paragraphs
-    This experience was my first part of Blip experience. I did the same tasks as I described above...the only difference is that I was part of a project to ***migrate a monolithic architecture
-    software to a microservice architecture***. It was a very good experience that involved migrating code and restructuring a huge pipeline with a lot of dependencies in small pieces.
+    I worked at Blip.pt as a contractor, which marked the beginning of my experience there. During this time, I performed similar tasks as described above, but with a contract with other company.
 
     <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM, Postman, Git
 
@@ -89,9 +85,7 @@
   quote: >
     Be part of a project to allow us to have a better mobility experience around cities
   description: | # this will include new lines to allow paragraphs
-    It was a very interesting project! The main focus of the project was to build a system that allowed to collect metrics from the electric cars and with those metrics obtain some conclusions about CO2 release
-    and the impact for the world. I worked as a backend developer in this project, it was the first time I had an experience with microservices and the ***opportunity to introduce the spring
-    framework into the backend department*** (the team was really small and we had space to try new technologies or tools around the company).
+    At ITSector, I started my career as a Junior Developer. One of my responsibilities was to implement an application similar to Caixa Geral de Depósitos in various countries, including Angola. This was my first experience working with a large monolithic Java repository, where I used some older technologies such as Java EE, Java Server Faces, and the JBoss framework.
 
     <i class="fas fa-toolbox"></i> Tools: Jenkins, Tomcat, VisualVM, SVN
 
